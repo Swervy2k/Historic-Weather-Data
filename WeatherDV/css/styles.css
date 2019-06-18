@@ -1,0 +1,25 @@
+*{
+  font-family: Arial, 'Open Sans', Verdana, sans-serif;
+  color: black;
+  text-align: center;
+}
+body {
+  width: auto;
+  margin: 0 auto;
+}
+.canvas1, .canvas2, .canvas3, .canvas4, .canvas5 {
+  width: 1500px;
+  height: 400px;
+  border-bottom: : 10px;
+  align-content: center;
+}
+#chart_container, #chart_container3, #chart_container5, #chart_container7, #chart_container9 {
+  width: 640px;
+  height: auto;
+  float: left;
+}
+#chart_container2, #chart_container4, #chart_container6, #chart_container8, #chart_container10 {
+  width: 640px;
+  height: auto;
+  float: right;
+}
